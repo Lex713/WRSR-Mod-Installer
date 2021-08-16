@@ -31,7 +31,7 @@ echo %appdir%
 
 ::Set game media folder
 set Media=%appdir: =%\media_soviet
-echo.
+echo. 
 echo ====================================================
 echo.
 
